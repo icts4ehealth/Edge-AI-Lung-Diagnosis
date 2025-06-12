@@ -34,7 +34,7 @@ The following post-training quantized models (INT8 TFLite format) are available:
 
 ## 🔁 Reproducibility Steps
 
-
+```bash
 ### 1. Clone This Repository
 git clone https://github.com/icts4ehealth/Edge-AI-Lung-Diagnosis.git
 cd Edge-AI-Lung-Diagnosis
