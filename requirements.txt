@@ -1,0 +1,7 @@
+flatbuffers==20181003210633
+numpy==1.24.4
+pillow==11.2.1
+pkg_resources==0.0.0
+runtime==0.1.4
+tflite==2.18.0
+tflite-runtime==2.13.0
